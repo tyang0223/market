@@ -24,10 +24,10 @@ export default function Footer(): ReactElement {
           <Button
             style="text"
             size="small"
-            href="https://oceanprotocol.com"
+            href="https://www.google.com"
             target="_blank"
           >
-            Ocean Protocol <External className={styles.svg} />
+            Nagarro Ocean Market <External className={styles.svg} />
           </Button>
         </div>
       </div>
