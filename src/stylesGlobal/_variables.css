@@ -20,14 +20,14 @@
   --brand-alert-yellow: #eac146;
 
   --color-primary: #ff4092;
-  --color-secondary: #8b98a9;
+  --color-secondary: #151417c4;
 
   /* Only use these vars for most color referencing for easy light/dark mode */
-  --font-color-text: #41474e;
-  --font-color-heading: #141414;
-  --background-body: #fcfcfc;
+  --font-color-text: #389d5a;
+  --font-color-heading: #d6123036;
+  --background-body: #496f3d40;
   --background-body-transparent: rgba(255, 255, 255, 0.8);
-  --background-content: #fff;
+  --background-content: #f7f7f7;
   --background-highlight: #f7f7f7;
   --border-color: #e2e2e2;
   --box-shadow-color: rgba(0, 0, 0, 0.05);
